@@ -1,4 +1,4 @@
-package day_30_03_Ternary;
+package day_03_30_Ternary;
 
 import java.util.Scanner;
 
